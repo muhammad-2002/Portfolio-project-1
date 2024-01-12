@@ -416,4 +416,7 @@ span {
   .contact {
     margin-top: -70px;
   }
+  .portfolio-layer {
+    padding: 1rem;
+  }
 }
